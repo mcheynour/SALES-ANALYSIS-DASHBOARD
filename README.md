@@ -12,12 +12,18 @@ top products.
 
 ## Key Insights
 - Monthly sales evolution and trends
-- 10 best-selling products
+- Top best-selling products
 
 ---
 
 ## Built with
 - Tableau Desktop
+
+---
+
+## 🛠️ Requirements
+- Tableau Desktop or [Tableau Public](https://public.tableau.com) (free)
+- Dataset included in repository (sales.csv)
 
 ---
 
