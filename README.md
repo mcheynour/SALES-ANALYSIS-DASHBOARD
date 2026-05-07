@@ -5,36 +5,36 @@ top products.
 
 ---
 
-## 📸 Preview
+## Preview
 ![Dashboard Preview](dashboard-screenshot.png)
 
 ---
 
-## Key Insights
+## Key Insights :
 - Monthly sales evolution and trends
 - Top best-selling products
 
 ---
 
-## Built with
+## Built with :
 - Tableau Desktop
 
 ---
 
-## 🛠️ Requirements
+## Requirements :
 - Tableau Desktop or [Tableau Public](https://public.tableau.com) (free)
 - Dataset included in repository (sales.csv)
 
 ---
 
-## Dataset
+## Dataset :
 - Source : Internal sales data
 - Format : CSV
 - Content : Sales transactions including dates, products, regions and revenue
 
 ---
 
-## Project structure
+## Project structure :
 
 sales-performance-dashboard/
 
@@ -48,5 +48,5 @@ sales-performance-dashboard/
 
 ---
 
-## Author
+## Author :
 [LinkedIn](www.linkedin.com/in/marie-cheynour-mchangama) | [GitHub](https://github.com/mcheynour)
